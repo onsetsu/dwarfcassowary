@@ -1,0 +1,32 @@
+{
+  "name": "dwarfcassowary",
+  "version": "1.0.1",
+  "description": "Yet another port of the dwarfcassowary library; this time as npm module for linear constraint solving",
+  "main": "dwarfcassowary.js",
+  "jsnext:main": "dwarfcassowary.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onsetsu/dwarfcassowary.git"
+  },
+  "keywords": [
+    "reactive",
+    "view",
+    "query",
+    "dataflow",
+    "declarative",
+    "events"
+  ],
+  "author": {
+    "name": "Stefan Ramson",
+    "email": "stefan.ramson@gmail.com",
+    "url": "http://onsetsu.github.io/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onsetsu/dwarfcassowary/issues"
+  },
+  "homepage": "https://github.com/onsetsu/dwarfcassowary#readme"
+}
